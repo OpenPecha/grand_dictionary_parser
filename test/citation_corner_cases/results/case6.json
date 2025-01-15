@@ -1,0 +1,100 @@
+{
+    "citation": {
+        "1": {
+            "book_title": "དབང་རྒྱལ་རྟ་མཆོག་རོལ་པའི་རྒྱུད་ཆེན་པོ",
+            "alt_title": "",
+            "volume": "པོད་འ་པ",
+            "page": "༢༡༠/419.2-༢༡༢/423.5",
+            "line": "",
+            "author": {
+                "name": "པདྨ་འབྱུང་གནས",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "terton": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "translator": {
+                "name": "གཉགས་ཛྙཱ་ན་ཀུ་མཱ་ར",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "གཏིང་སྐྱེས་དགོན་པ་བྱང་གི་བྲིས་མ",
+            "publication_year": "",
+            "collection": "གཏིང་སྐྱེས་རྒྱུད་འབུམ",
+            "TBRC": "W21518"
+        },
+        "2": {
+            "book_title": "དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དགོངས་པ་བླ་ན་མེད་པ་གསང་བ་རྟ་མཆོག་རོལ་པའི་རྒྱུད་ཆེན་པོ",
+            "alt_title": "",
+            "volume": "པོད་ག་པ",
+            "page": "༡༠༢/203.1",
+            "line": "",
+            "author": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "terton": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "translator": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "སི་ཏུ་ཆོས་ཀྱི་འབྱུང་གནས",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "སྡེ་དགེ་པར་མ",
+            "publication_year": "",
+            "collection": "སྡེ་དགེ་བཀའ་འགྱུར",
+            "TBRC": "W22084"
+        },
+        "3": {
+            "book_title": "རྟ་མཆོག་རོལ་པའི་རྒྱུད་ཆེན་པོ",
+            "alt_title": "",
+            "volume": "པོད་འ་པ",
+            "page": "༡༣༤b/268.7",
+            "line": "",
+            "author": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "terton": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "translator": {
+                "name": [
+                    "རག་ཤི་སིངྔྷི་",
+                    "ལྕེ་ཀུ་ཀུ་རཱ་ཙ"
+                ],
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "གཏིང་སྐྱེས་དགོན་པ་བྱང་གི་བྲིས་མ",
+            "publication_year": "",
+            "collection": "གཏིང་སྐྱེས་རྒྱུད་འབུམ",
+            "TBRC": "W21518"
+        }
+    }
+}

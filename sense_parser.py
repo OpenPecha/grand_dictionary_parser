@@ -1,4 +1,3 @@
-import anthropic
 import json
 import time
 from pathlib import Path
@@ -8,7 +7,6 @@ from config import ANTHROPIC_CLIENT
 
 
 def parse_senses_with_claude(word, descriptions):
-    senses = {}
     time.sleep(5)
     try:
         message = ANTHROPIC_CLIENT.messages.create(
