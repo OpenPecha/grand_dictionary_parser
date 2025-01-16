@@ -1,0 +1,97 @@
+{
+    "citation": {
+        "1": {
+            "book_title": "ཀུན་མཁྱེན་མཚོ་སྣ་བའི་མདོ་རྩའི་རྣམ་བཤད་ཉི་མའི་འོད་ཟེར།",
+            "alt_title": "",
+            "volume": "མཚོ་ཊཱི་བར་ཆ།",
+            "page": "༤༧༧",
+            "line": "",
+            "author": {
+                "name": "ཀུན་མཁྱེན་མཚོ་སྣ་བ་ཤེས་རབ་བཟང་པོ",
+                "year_of_birth": "1310",
+                "year_of_death": ""
+            },
+            "terton": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "translator": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "ཐེ་ཝན་པར་མ།",
+            "publication_year": "",
+            "collection": "",
+            "TBRC": ""
+        },
+        "2": {
+            "book_title": "པཎ་ཆེན་ངག་ཆོས་ཀྱི་འདུལ་བའི་སྤྱི་དོན་ཐུབ་བསྟན་ཉིན་བྱེད།",
+            "alt_title": "",
+            "volume": "ངག་ཆོས་བཀའ་འབུམ་པོད་ཁ་པ།",
+            "page": "༡༤༡",
+            "line": "༣",
+            "author": {
+                "name": "པཎ་ཆེན་ངག་ཆོས།",
+                "year_of_birth": "1572",
+                "year_of_death": "1641"
+            },
+            "terton": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "translator": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "དཔེ་གཟུགས་རིམ་སྦིག་བཤད་གྲྭའི་པར་མ།",
+            "publication_year": "",
+            "collection": "",
+            "TBRC": ""
+        },
+        "3": {
+            "book_title": "མ་ཎིའི་བཀའ་འབུམ་ཆེན་མོ།",
+            "alt_title": "",
+            "volume": "གུ་རུ་ཆོས་དབང་གི་མ་ཎི་བཀའ་འབུམ་ཆེན་མོ།",
+            "page": "༨/15.5",
+            "line": "",
+            "author": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "terton": {
+                "name": "གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག",
+                "year_of_birth": "1212",
+                "year_of_death": "1270"
+            },
+            "translator": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "editor": {
+                "name": "",
+                "year_of_birth": "",
+                "year_of_death": ""
+            },
+            "publisher": "བསོད་ནམས་སྟོབས་རྒྱས།",
+            "publication_year": "1976",
+            "collection": "",
+            "TBRC": "W26072"
+        }
+    }
+}
