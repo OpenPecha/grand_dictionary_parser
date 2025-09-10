@@ -1,11 +1,14 @@
 import json
+import logging
 import time
 from pathlib import Path
 
 from config import ANTHROPIC_CLIENT
 
+logger = logging.getLogger(__name__)
 
-def parse_citations_with_claude(ciation_text):
+def parse_citations_with_claude(word_id, word, citation_text):
+    citations_dict = {}
     time.sleep(5)
     try:
         ai_response = ANTHROPIC_CLIENT.messages.create(
@@ -65,7 +68,7 @@ Dictionary format:
 }}
 གལ་ཏེ་བརྗོད་པའི་ནང་གོང་གི་གནས་ཚུལ་གང་རུང་གསལ་སྟོན་བྱས་མེད་ན་སྟོང་པ་འཇོག་རོགས། 
 བརྗོད་པ་:
-{ciation_text}
+{citation_text}
 """
                             }
                         ]
@@ -79,7 +82,8 @@ Dictionary format:
 
 
     except Exception as e:
-        print(f"Error processing citation: {e}")
+        # print(f"Error processing citation text {citation_text} of {word}")
+        logger.error(f"Error processing citation text {citation_text} of {word}/{word_id}")
     
     return citations_dict
 
